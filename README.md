@@ -6,17 +6,17 @@ This is a simple calculator built using Python's Tkinter library. It can perform
 ## 🚀 Getting Started
 To use the calculator, simply download or clone the repository to your local machine. Make sure you have Python 3 and the Tkinter library installed on your system.
 
-Once you have the code on your machine, navigate to the directory where the code is saved and run the main.py file using the following command:
+Once you have the code on your machine, navigate to the directory where the code is saved and run the following command:
 
 Install dependencies
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
-
+Run the file
 ```bash
 python main.py
 ```
-## Preview
+## 👀 Preview
 ![calculator](https://user-images.githubusercontent.com/91323622/230900952-b17da57a-bbda-4c8b-98c4-3dcffa9158d6.png)
 
 
