@@ -8,9 +8,17 @@ To use the calculator, simply download or clone the repository to your local mac
 
 Once you have the code on your machine, navigate to the directory where the code is saved and run the main.py file using the following command:
 
+Install dependencies
+```bash
+    pip install -r requirements.txt
+```
+
 ```bash
 python main.py
 ```
+## Preview
+![calculator](https://user-images.githubusercontent.com/91323622/230900952-b17da57a-bbda-4c8b-98c4-3dcffa9158d6.png)
+
 
 ## 🤝 Contributing
 If you have suggestions for improving this calculator or adding new features, please feel free to open an issue or pull request.
